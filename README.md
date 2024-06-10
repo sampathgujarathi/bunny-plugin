@@ -67,6 +67,15 @@ ___
 
 ## 📸Screenshot
 
+<div align="center">
+  <img src="https://i.imgur.com/YZATJGR.png" alt="Installed">
+  <br>
+  <img src="https://i.imgur.com/7BipO30.png" alt="Plugin Settings">
+  <br>
+  <img src="https://i.imgur.com/UJWpl0z.png" alt="Profile Preview">
+  <br>
+  <img src="https://i.imgur.com/bQ67780.png" alt="Profile Preview With Effect">
+</div>
 
 ## 🔨Installation
 
