@@ -68,12 +68,10 @@ ___
 ## 📸Screenshot
 
 <div align="center">
-  <img src="https://i.imgur.com/YZATJGR.png" alt="Installed" width="200">
-  <br>
-  <img src="https://i.imgur.com/7BipO30.png" alt="Plugin Settings" width="200">
+  <img src="https://i.imgur.com/YZATJGR.png" alt="Installed">
   <br>
   <img src="https://i.imgur.com/UJWpl0z.png" alt="Profile Preview" width="200">
-  <br>
+  <img src="https://i.imgur.com/7BipO30.png" alt="Plugin Settings" width="200">
   <img src="https://i.imgur.com/bQ67780.png" alt="Profile Preview With Effect" width="200">
 </div>
 
