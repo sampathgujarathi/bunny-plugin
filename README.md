@@ -1,7 +1,6 @@
-# Vendetta Plugin Template
-This repo contains a template for creating a [Vendetta](https://github.com/vendetta-mod/Vendetta) plugin.
+# fakeProfile Plugin for Pyoncord/Bunny.
+This repo contains a template for creating a [Pyoncord/Bunny](https://github.com/pyoncord/Bunny) plugin.
 
 # How to install?
-Paste this plugin's URL into the Plugins page of Vendetta, following a basic format of:
-
-https://`YOUR_GITHUB_USERNAME`.github.io/`REPO_NAME`
+Paste this plugin's URL into the Plugins page of Pyoncord/Bunny, following:
+https://fakeprofile.sampath.tech
